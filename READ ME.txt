@@ -1,0 +1,2 @@
+es es un CV elaborado en html y dandole un diseño atraves de css con el cual quiero imaginar que si parce un cv y no otra cosa 
+no se que mas poner porque no se como hecer una documentacion.
